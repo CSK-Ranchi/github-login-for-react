@@ -81,4 +81,4 @@ $ npm start
 ```
 
 Webpack development server starts at [http://localhost:8080](http://localhost:8080),
-loading [example/index.html](github.com/checkr/react-facebook-login/tree/master/example/index.html)
+loading [example/index.html](github.com/checkr/react-facebook-login/tree/master/example/index.html).
