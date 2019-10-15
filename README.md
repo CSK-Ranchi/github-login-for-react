@@ -86,4 +86,4 @@ Webpack development server starts at [http://localhost:8080](http://localhost:80
 
 ss
 loading [example/index.html](github.com/checkr/react-facebook-login/tree/master/example/index.html).
-finish
+finishing
